@@ -11,7 +11,7 @@ int main()
          
          
          printf("\nEnter a sentence:");                     /*input*/
-         gets(x);
+         scanf("%[^\n]",x);
          printf("\nEnter the word to be searched:");
          gets(s);
          
