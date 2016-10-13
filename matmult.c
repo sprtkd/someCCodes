@@ -1,5 +1,5 @@
 /*matrix multiplication*/
-#include<stdio.h>/*golmaal*/
+#include<stdio.h>
 #define MAX 100
 
 int main()
